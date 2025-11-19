@@ -1,5 +1,5 @@
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-BRIDGE – Assistive Multi-Modal Communication Device
+BRIDGE –Bi-directional Real-time Intelligent Device for Global Communication and Exchange
 Sign Language ↔ Speech ↔ Text ↔ Braille Translator
 Designed for Deaf, Mute, and Blind Accessibility
 Overview
